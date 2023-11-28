@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(231, 231, 231);
+    align-self: center;
+    margin-left: 100px;
+    margin-right: auto;
+    width: 800px;
+
+}
+
+ul, ol {
+    margin-left: 0;
+}
+
+
+
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.odin {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.brocsoup {
+    height: 400px;
+    width: auto;
+}
+
